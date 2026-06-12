@@ -50,4 +50,18 @@ console.log(a>3 && b>9)
 console.log(a>7 || b<6)
 console.log(!(a<3))
 
+//unary operator 
+console.log("Unary operator")
+var c=6
+console.log(c++)
+console.log(c--)
+console.log(++c)
+console.log(--c)
+
+//ternary operator
+console.log("Ternary operator")
+var result=(a>b) ? "a is greater" :"b is greater"
+console.log(result)
+
+
 
