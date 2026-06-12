@@ -1,4 +1,4 @@
-
+//Arithemetic operator
 console.log("Arithemetic operator")
 var a=90
 var b=60
