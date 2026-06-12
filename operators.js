@@ -21,7 +21,19 @@ console.log(a**2) //exponentiation */
 
 
 //Assignment operator
+console.log("assignment operator")
 var a=40
 console.log(a-=20)
 console.log(a*=20)
 console.log(a/=20)
+
+//comparision operator
+console.log("compare operator")
+var a=90
+var b=60
+console.log(a==b)
+console.log(a!=b)
+console.log(a<b)
+console.log(a>b)
+console.log(a<=b)
+console.log(a>=b)
