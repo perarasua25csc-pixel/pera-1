@@ -1,7 +1,8 @@
 
+/*console.log(Arithemetic operator)
 var a=90
 var b=60
-console.log(a-b) 
+console.log(a-b)
 
 var a=80
 var b=50
@@ -16,4 +17,11 @@ var b=60
 console.log(a%b) //modulus
   
 var a=30
-console.log(a**2) //exponential
+console.log(a**2) //exponentiation */
+
+
+//Assignment operator
+var a=40
+console.log(a-=20)
+console.log(a*=20)
+console.log(a/=20)
