@@ -1,4 +1,9 @@
-for (let i =1; i<=10; i++)
-    console.log(i + " X 2 =" +(i*2));{
-}
 
+//do while
+
+let count=6
+do{
+    console.log(count);
+    count++;
+}while(count <=5)
+    console.log("Outside do.while");
