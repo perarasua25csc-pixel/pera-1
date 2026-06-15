@@ -13,6 +13,6 @@ switch(signal){
         break;
 
     default:
-        console.log("Invalid color light")    
+        console.log("Invalid color light")  
 
 }
